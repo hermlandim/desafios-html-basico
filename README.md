@@ -18,4 +18,4 @@ Este desafio tem como objetivo praticar o uso de HTML semântico na criação de
    - Um rodapé (`<footer>`) que inclua o ano de publicação do livro utilizando tags de parágrafo.
 5. Utilize a tag `<article>` para envolver as seções principal e de detalhes.
 
-Lembre-se de utilizar atributos apropriados, como `class` e `id`, quando necessário. Tente manter
+Lembre-se de utilizar atributos apropriados, como `class` e `id`, quando necessário. 
